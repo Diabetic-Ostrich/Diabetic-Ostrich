@@ -1,4 +1,5 @@
 ## Hi there 👋
+# No projects are here yet 🕸️
 
 <!--
 **Diabetic-Ostrich/Diabetic-Ostrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
